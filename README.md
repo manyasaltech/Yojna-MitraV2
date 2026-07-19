@@ -9,7 +9,9 @@ Yojna Mitra is a platform designed to help users discover and access relevant go
 - User-friendly interface for exploring available schemes
 
 ## Tech Stack
-- Add your actual technologies here
+- HTML
+- CSS
+- Git & GitHub
 
 ## Project Structure
 - Frontend: User interface components
